@@ -1,205 +1,205 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="2000" height="1000">
-<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
 <style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
 <rect width="100%" height="100%" style="fill:white"></rect>
-<text transform="translate(417,883)" font-size="463" style="fill:rgb(165, 219, 54)">vald</text>
-<text transform="translate(197,408)" font-size="396" style="fill:rgb(178, 221, 45)">booba</text>
-<text transform="translate(17,586)" font-size="230" style="fill:rgb(31, 161, 136)">raciste</text>
-<text transform="translate(1362,285)" font-size="227" style="fill:rgb(186, 222, 40)">fait</text>
-<text transform="translate(1356,455)" font-size="212" style="fill:rgb(160, 218, 57)">daron</text>
-<text transform="translate(1518,732)" font-size="212" style="fill:rgb(72, 29, 111)">va</text>
-<text transform="translate(1494,913)" font-size="210" style="fill:rgb(55, 90, 140)">plus</text>
-<text transform="translate(117,906)" font-size="197" style="fill:rgb(103, 204, 92)">si</text>
-<text transform="translate(349,106)" font-size="181" style="fill:rgb(33, 145, 140)">comme</text>
-<text transform="translate(185,453) rotate(-90)" font-size="181" style="fill:rgb(38, 130, 142)">bien</text>
-<text transform="translate(1881,782) rotate(-90)" font-size="177" style="fill:rgb(68, 58, 131)">rap</text>
-<text transform="translate(3,697)" font-size="143" style="fill:rgb(39, 128, 142)">quand</text>
-<text transform="translate(984,105)" font-size="137" style="fill:rgb(142, 214, 69)">juste</text>
-<text transform="translate(1136,530)" font-size="130" style="fill:rgb(246, 230, 32)">p re</text>
-<text transform="translate(361,976)" font-size="122" style="fill:rgb(68, 2, 86)">clash</text>
-<text transform="translate(844,977)" font-size="122" style="fill:rgb(32, 147, 140)">faire</text>
-<text transform="translate(1496,549)" font-size="119" style="fill:rgb(69, 5, 89)">tait</text>
-<text transform="translate(1231,845) rotate(-90)" font-size="119" style="fill:rgb(68, 1, 84)">dire</text>
-<text transform="translate(1721,75)" font-size="108" style="fill:rgb(82, 197, 105)">trop</text>
-<text transform="translate(1021,847) rotate(-90)" font-size="105" style="fill:rgb(46, 109, 142)">donc</text>
-<text transform="translate(1481,82)" font-size="102" style="fill:rgb(41, 121, 142)">faut</text>
-<text transform="translate(1215,964)" font-size="102" style="fill:rgb(44, 114, 142)">tout</text>
-<text transform="translate(116,993) rotate(-90)" font-size="99" style="fill:rgb(58, 84, 140)">rien</text>
-<text transform="translate(1075,167)" font-size="89" style="fill:rgb(40, 125, 142)">autre</text>
-<text transform="translate(103,576)" font-size="88" style="fill:rgb(35, 138, 141)">v</text>
-<text transform="translate(552,174)" font-size="88" style="fill:rgb(38, 130, 142)">aussi</text>
-<text transform="translate(127,950)" font-size="76" style="fill:rgb(218, 227, 25)">parce</text>
-<text transform="translate(1645,971)" font-size="76" style="fill:rgb(33, 143, 141)">dit</text>
-<text transform="translate(966,475)" font-size="75" style="fill:rgb(34, 139, 141)">bon</text>
-<text transform="translate(312,847)" font-size="75" style="fill:rgb(70, 51, 127)">quoi</text>
-<text transform="translate(268,146)" font-size="69" style="fill:rgb(34, 139, 141)">rappeur</text>
-<text transform="translate(1240,586)" font-size="69" style="fill:rgb(66, 190, 113)">album</text>
-<text transform="translate(1872,708)" font-size="69" style="fill:rgb(41, 175, 127)">mec</text>
-<text transform="translate(1780,982)" font-size="68" style="fill:rgb(59, 81, 139)">alors</text>
-<text transform="translate(58,240) rotate(-90)" font-size="64" style="fill:rgb(58, 186, 118)">jamais</text>
-<text transform="translate(191,782) rotate(-90)" font-size="63" style="fill:rgb(45, 112, 142)">ca</text>
-<text transform="translate(1496,132)" font-size="63" style="fill:rgb(32, 163, 134)">parle</text>
-<text transform="translate(1338,508)" font-size="63" style="fill:rgb(192, 223, 37)">o</text>
-<text transform="translate(1522,783)" font-size="62" style="fill:rgb(162, 218, 55)">dis</text>
-<text transform="translate(307,786)" font-size="62" style="fill:rgb(70, 10, 93)">veut</text>
-<text transform="translate(1330,755)" font-size="62" style="fill:rgb(34, 140, 141)">gen</text>
-<text transform="translate(1494,603)" font-size="60" style="fill:rgb(39, 128, 142)">vraiment</text>
-<text transform="translate(195,62)" font-size="60" style="fill:rgb(32, 146, 140)">tous</text>
-<text transform="translate(382,534)" font-size="59" style="fill:rgb(66, 190, 113)">non</text>
-<text transform="translate(1852,215)" font-size="59" style="fill:rgb(63, 71, 136)">gros</text>
-<text transform="translate(1071,812) rotate(-90)" font-size="59" style="fill:rgb(223, 227, 24)">famille</text>
-<text transform="translate(721,751) rotate(-90)" font-size="59" style="fill:rgb(45, 178, 125)">merde</text>
-<text transform="translate(928,257) rotate(-90)" font-size="59" style="fill:rgb(186, 222, 40)">re vald</text>
-<text transform="translate(553,646)" font-size="58" style="fill:rgb(70, 48, 126)">e</text>
-<text transform="translate(198,722)" font-size="44" style="fill:rgb(65, 66, 135)">personne</text>
-<text transform="translate(1587,318)" font-size="44" style="fill:rgb(32, 146, 140)">con</text>
-<text transform="translate(1156,439) rotate(-90)" font-size="43" style="fill:rgb(33, 144, 141)">physique</text>
-<text transform="translate(731,957)" font-size="43" style="fill:rgb(71, 19, 101)">voir</text>
-<text transform="translate(1734,321)" font-size="43" style="fill:rgb(70, 50, 126)">blanc</text>
-<text transform="translate(1744,106)" font-size="42" style="fill:rgb(70, 10, 93)">truc</text>
-<text transform="translate(1912,142)" font-size="41" style="fill:rgb(47, 180, 124)">peu</text>
-<text transform="translate(191,443)" font-size="41" style="fill:rgb(239, 229, 28)">semaine</text>
-<text transform="translate(607,870)" font-size="41" style="fill:rgb(30, 155, 138)">vrai</text>
-<text transform="translate(183,987)" font-size="41" style="fill:rgb(59, 82, 139)">moment</text>
-<text transform="translate(532,441)" font-size="40" style="fill:rgb(45, 113, 142)">encore</text>
-<text transform="translate(1955,655) rotate(-90)" font-size="40" style="fill:rgb(70, 7, 90)">toujours</text>
-<text transform="translate(36,263)" font-size="40" style="fill:rgb(67, 61, 132)">vente</text>
-<text transform="translate(744,289)" font-size="40" style="fill:rgb(34, 140, 141)">foi</text>
-<text transform="translate(273,332)" font-size="40" style="fill:rgb(68, 57, 131)">tre</text>
-<text transform="translate(414,901) rotate(-90)" font-size="40" style="fill:rgb(31, 149, 139)">vu</text>
-<text transform="translate(730,713)" font-size="40" style="fill:rgb(108, 205, 90)">peut</text>
-<text transform="translate(795,446)" font-size="40" style="fill:rgb(62, 76, 138)">iencli</text>
-<text transform="translate(743,618)" font-size="40" style="fill:rgb(57, 86, 140)">couille</text>
-<text transform="translate(378,432)" font-size="40" style="fill:rgb(45, 113, 142)">moin</text>
-<text transform="translate(1208,517)" font-size="39" style="fill:rgb(50, 101, 142)">pcq</text>
-<text transform="translate(286,274)" font-size="39" style="fill:rgb(59, 81, 139)">apr</text>
-<text transform="translate(994,507)" font-size="39" style="fill:rgb(56, 89, 140)">depuis</text>
-<text transform="translate(1580,972)" font-size="39" style="fill:rgb(68, 58, 131)">g</text>
-<text transform="translate(1715,791)" font-size="39" style="fill:rgb(37, 133, 142)">chiffre</text>
-<text transform="translate(1664,307)" font-size="38" style="fill:rgb(41, 123, 142)">car</text>
-<text transform="translate(1193,442)" font-size="38" style="fill:rgb(31, 162, 135)">couter</text>
-<text transform="translate(735,988)" font-size="38" style="fill:rgb(110, 206, 88)">vieux</text>
-<text transform="translate(1161,268)" font-size="38" style="fill:rgb(49, 181, 123)">tweet</text>
-<text transform="translate(193,91)" font-size="38" style="fill:rgb(62, 74, 137)">contre</text>
-<text transform="translate(1897,308)" font-size="38" style="fill:rgb(124, 210, 80)">peux</text>
-<text transform="translate(1470,316)" font-size="38" style="fill:rgb(68, 58, 131)">leurs</text>
-<text transform="translate(33,529) rotate(-90)" font-size="38" style="fill:rgb(115, 208, 86)">tout monde</text>
-<text transform="translate(1259,774) rotate(-90)" font-size="38" style="fill:rgb(70, 192, 111)">peut tre</text>
-<text transform="translate(1031,167)" font-size="37" style="fill:rgb(119, 209, 83)">tr</text>
-<text transform="translate(527,294)" font-size="37" style="fill:rgb(35, 137, 142)">re</text>
-<text transform="translate(422,606)" font-size="37" style="fill:rgb(244, 230, 30)">propos</text>
-<text transform="translate(1390,67)" font-size="37" style="fill:rgb(31, 158, 137)">damso</text>
-<text transform="translate(765,339)" font-size="37" style="fill:rgb(63, 71, 136)">ge</text>
-<text transform="translate(1644,287) rotate(-90)" font-size="37" style="fill:rgb(181, 222, 43)">deux</text>
-<text transform="translate(817,137)" font-size="37" style="fill:rgb(72, 193, 110)">pr</text>
-<text transform="translate(1293,621)" font-size="37" style="fill:rgb(39, 127, 142)">twitter</text>
-<text transform="translate(1393,327) rotate(-90)" font-size="37" style="fill:rgb(55, 91, 141)">parler</text>
-<text transform="translate(1756,228) rotate(-90)" font-size="37" style="fill:rgb(218, 227, 25)">jour</text>
-<text transform="translate(988,339)" font-size="37" style="fill:rgb(42, 120, 142)">oui</text>
-<text transform="translate(415,175)" font-size="37" style="fill:rgb(178, 221, 45)">suceur</text>
-<text transform="translate(29,858) rotate(-90)" font-size="35" style="fill:rgb(241, 229, 29)">parent</text>
-<text transform="translate(1885,783)" font-size="35" style="fill:rgb(53, 183, 121)">mieux</text>
-<text transform="translate(1890,266)" font-size="35" style="fill:rgb(144, 215, 67)">puis</text>
-<text transform="translate(502,681)" font-size="35" style="fill:rgb(64, 70, 136)">grand</text>
-<text transform="translate(1885,738)" font-size="35" style="fill:rgb(59, 82, 139)">aller</text>
-<text transform="translate(434,274) rotate(-90)" font-size="35" style="fill:rgb(50, 100, 142)">avis</text>
-<text transform="translate(716,913)" font-size="35" style="fill:rgb(49, 103, 142)">trouve</text>
-<text transform="translate(624,212)" font-size="35" style="fill:rgb(72, 31, 112)">fais</text>
-<text transform="translate(1205,479)" font-size="35" style="fill:rgb(147, 215, 65)">feat</text>
-<text transform="translate(104,612)" font-size="35" style="fill:rgb(33, 145, 140)">vois</text>
-<text transform="translate(681,401) rotate(-90)" font-size="35" style="fill:rgb(192, 223, 37)">comment</text>
-<text transform="translate(1299,992)" font-size="35" style="fill:rgb(108, 205, 90)">ouais</text>
-<text transform="translate(1347,818)" font-size="35" style="fill:rgb(72, 29, 111)">temp</text>
-<text transform="translate(622,811)" font-size="35" style="fill:rgb(67, 62, 133)">post</text>
-<text transform="translate(244,881) rotate(-90)" font-size="35" style="fill:rgb(72, 24, 106)">musique</text>
-<text transform="translate(917,410) rotate(-90)" font-size="35" style="fill:rgb(47, 108, 142)">grand p</text>
-<text transform="translate(1386,100)" font-size="33" style="fill:rgb(108, 205, 90)">chose</text>
-<text transform="translate(1426,990)" font-size="33" style="fill:rgb(32, 147, 140)">raison</text>
-<text transform="translate(209,362) rotate(-90)" font-size="33" style="fill:rgb(101, 203, 94)">attaque</text>
-<text transform="translate(1383,26)" font-size="33" style="fill:rgb(184, 222, 41)">reste</text>
-<text transform="translate(507,322)" font-size="33" style="fill:rgb(61, 77, 138)">prend</text>
-<text transform="translate(1350,713)" font-size="33" style="fill:rgb(39, 128, 142)">mdr</text>
-<text transform="translate(980,288)" font-size="33" style="fill:rgb(72, 27, 109)">genre</text>
-<text transform="translate(811,173)" font-size="33" style="fill:rgb(144, 215, 67)">ceux</text>
-<text transform="translate(1706,503) rotate(-90)" font-size="33" style="fill:rgb(72, 40, 120)">racisme</text>
-<text transform="translate(775,531)" font-size="33" style="fill:rgb(64, 70, 136)">quel</text>
-<text transform="translate(1616,445) rotate(-90)" font-size="33" style="fill:rgb(70, 51, 127)">blague</text>
-<text transform="translate(1088,195)" font-size="33" style="fill:rgb(61, 77, 138)">coute</text>
-<text transform="translate(630,839)" font-size="33" style="fill:rgb(34, 168, 132)">vie</text>
-<text transform="translate(1721,253)" font-size="33" style="fill:rgb(74, 193, 109)">rire</text>
-<text transform="translate(513,541)" font-size="33" style="fill:rgb(40, 125, 142)">aucun</text>
-<text transform="translate(1992,661) rotate(-90)" font-size="33" style="fill:rgb(42, 120, 142)">maintenant</text>
-<text transform="translate(89,521)" font-size="33" style="fill:rgb(162, 218, 55)">aime</text>
-<text transform="translate(1223,878)" font-size="31" style="fill:rgb(162, 218, 55)">fou</text>
-<text transform="translate(46,346)" font-size="31" style="fill:rgb(122, 209, 81)">sorti</text>
-<text transform="translate(432,398) rotate(-90)" font-size="31" style="fill:rgb(55, 90, 140)">preuve</text>
-<text transform="translate(1814,720)" font-size="31" style="fill:rgb(61, 77, 138)">dr</text>
-<text transform="translate(985,90) rotate(-90)" font-size="31" style="fill:rgb(234, 229, 26)">sais</text>
-<text transform="translate(1139,712)" font-size="31" style="fill:rgb(39, 173, 129)">sans</text>
-<text transform="translate(1471,463)" font-size="31" style="fill:rgb(241, 229, 29)">h</text>
-<text transform="translate(228,612)" font-size="31" style="fill:rgb(58, 186, 118)">meilleur</text>
-<text transform="translate(1091,25)" font-size="31" style="fill:rgb(31, 161, 135)">fan</text>
-<text transform="translate(1655,890) rotate(-90)" font-size="31" style="fill:rgb(48, 105, 142)">quelle</text>
-<text transform="translate(1530,942)" font-size="31" style="fill:rgb(244, 230, 30)">combat</text>
-<text transform="translate(568,521) rotate(-90)" font-size="31" style="fill:rgb(103, 204, 92)">mdrr</text>
-<text transform="translate(896,552)" font-size="31" style="fill:rgb(70, 11, 94)">accord</text>
-<text transform="translate(953,781) rotate(-90)" font-size="31" style="fill:rgb(59, 82, 139)">communaut</text>
-<text transform="translate(39,754)" font-size="31" style="fill:rgb(49, 104, 142)">mettre</text>
-<text transform="translate(268,740)" font-size="23" style="fill:rgb(51, 98, 141)">responsable</text>
-<text transform="translate(112,78)" font-size="23" style="fill:rgb(58, 186, 118)">avoir</text>
-<text transform="translate(1446,482)" font-size="23" style="fill:rgb(68, 58, 131)">sait</text>
-<text transform="translate(419,866)" font-size="23" style="fill:rgb(236, 229, 27)">toute</text>
-<text transform="translate(1877,933)" font-size="23" style="fill:rgb(61, 78, 138)">premier</text>
-<text transform="translate(502,951) rotate(-90)" font-size="23" style="fill:rgb(31, 161, 136)">insta</text>
-<text transform="translate(148,131)" font-size="23" style="fill:rgb(88, 199, 101)">jsuis</text>
-<text transform="translate(1512,155)" font-size="23" style="fill:rgb(197, 224, 33)">fan vald</text>
-<text transform="translate(379,454)" font-size="23" style="fill:rgb(31, 148, 140)">carri re</text>
-<text transform="translate(508,62) rotate(-90)" font-size="22" style="fill:rgb(103, 204, 92)">x</text>
-<text transform="translate(935,894)" font-size="22" style="fill:rgb(39, 127, 142)">chaud</text>
-<text transform="translate(1849,100)" font-size="22" style="fill:rgb(59, 187, 117)">story</text>
-<text transform="translate(678,428)" font-size="22" style="fill:rgb(38, 130, 142)">partie</text>
-<text transform="translate(1453,204)" font-size="22" style="fill:rgb(216, 226, 25)">duc</text>
-<text transform="translate(542,265)" font-size="22" style="fill:rgb(49, 104, 142)">vais</text>
-<text transform="translate(788,821)" font-size="22" style="fill:rgb(65, 68, 135)">gueule</text>
-<text transform="translate(1099,900)" font-size="22" style="fill:rgb(71, 47, 125)">pondre</text>
-<text transform="translate(639,769)" font-size="22" style="fill:rgb(119, 209, 83)">ni</text>
-<text transform="translate(746,306)" font-size="22" style="fill:rgb(69, 5, 89)">sortir</text>
-<text transform="translate(1775,118)" font-size="22" style="fill:rgb(72, 31, 112)">veux</text>
-<text transform="translate(1460,508)" font-size="22" style="fill:rgb(53, 94, 141)">coup</text>
-<text transform="translate(1159,551)" font-size="22" style="fill:rgb(162, 218, 55)">autant</text>
-<text transform="translate(326,175)" font-size="22" style="fill:rgb(72, 33, 115)">passer</text>
-<text transform="translate(219,18)" font-size="22" style="fill:rgb(46, 109, 142)">image</text>
-<text transform="translate(291,19)" font-size="22" style="fill:rgb(49, 104, 142)">entre</text>
-<text transform="translate(595,619)" font-size="22" style="fill:rgb(119, 209, 83)">quelqu</text>
-<text transform="translate(333,76)" font-size="22" style="fill:rgb(71, 14, 97)">fr</text>
-<text transform="translate(1335,134)" font-size="22" style="fill:rgb(70, 11, 94)">cette</text>
-<text transform="translate(1929,173)" font-size="22" style="fill:rgb(38, 129, 142)">hein</text>
-<text transform="translate(1628,151)" font-size="22" style="fill:rgb(47, 180, 124)">font</text>
-<text transform="translate(1013,253)" font-size="22" style="fill:rgb(63, 72, 137)">pond</text>
-<text transform="translate(1654,988)" font-size="22" style="fill:rgb(115, 208, 86)">rapport</text>
-<text transform="translate(400,60)" font-size="22" style="fill:rgb(31, 162, 135)">sujet</text>
-<text transform="translate(634,502)" font-size="22" style="fill:rgb(70, 52, 128)">noir</text>
-<text transform="translate(1438,221)" font-size="21" style="fill:rgb(37, 133, 142)">excuse</text>
-<text transform="translate(1832,573)" font-size="21" style="fill:rgb(30, 155, 138)">meme</text>
-<text transform="translate(509,349)" font-size="21" style="fill:rgb(61, 188, 116)">pris</text>
-<text transform="translate(693,445)" font-size="21" style="fill:rgb(72, 27, 109)">pote</text>
-<text transform="translate(1910,661) rotate(-90)" font-size="21" style="fill:rgb(71, 47, 125)">surtout</text>
-<text transform="translate(413,993)" font-size="21" style="fill:rgb(71, 17, 100)">tellement</text>
-<text transform="translate(80,18)" font-size="21" style="fill:rgb(38, 129, 142)">question</text>
-<text transform="translate(669,518)" font-size="21" style="fill:rgb(208, 225, 28)">allait</text>
-<text transform="translate(644,235)" font-size="21" style="fill:rgb(61, 188, 116)">sen</text>
-<text transform="translate(1012,994)" font-size="21" style="fill:rgb(55, 184, 120)">kaaris</text>
-<text transform="translate(1695,890)" font-size="21" style="fill:rgb(40, 124, 142)">face</text>
-<text transform="translate(1200,993)" font-size="21" style="fill:rgb(59, 81, 139)">stream</text>
-<text transform="translate(1539,20)" font-size="21" style="fill:rgb(69, 53, 129)">seul</text>
-<text transform="translate(25,602)" font-size="21" style="fill:rgb(67, 62, 133)">sinon</text>
-<text transform="translate(1539,474)" font-size="21" style="fill:rgb(53, 94, 141)">afficher</text>
-<text transform="translate(694,540)" font-size="21" style="fill:rgb(189, 223, 38)">fils</text>
-<text transform="translate(12,891)" font-size="21" style="fill:rgb(54, 93, 141)">bouffon</text>
-<text transform="translate(587,882)" font-size="21" style="fill:rgb(70, 50, 126)">ponse</text>
-<text transform="translate(371,552)" font-size="21" style="fill:rgb(122, 209, 81)">classique</text>
-<text transform="translate(538,711)" font-size="21" style="fill:rgb(103, 204, 92)">pire</text>
-<text transform="translate(574,994)" font-size="21" style="fill:rgb(43, 116, 142)">ultra</text>
-<text transform="translate(1257,185)" font-size="21" style="fill:rgb(71, 45, 123)">histoire</text>
-<text transform="translate(1148,18)" font-size="21" style="fill:rgb(72, 20, 103)">beaucoup</text>
+<text transform="translate(201,667)" font-size="500" style="fill:rgb(47, 107, 142)">vald</text>
+<text transform="translate(258,936)" font-size="347" style="fill:rgb(31, 159, 136)">booba</text>
+<text transform="translate(224,200)" font-size="236" style="fill:rgb(149, 216, 64)">raciste</text>
+<text transform="translate(1390,772)" font-size="233" style="fill:rgb(202, 225, 31)">fait</text>
+<text transform="translate(1332,943)" font-size="218" style="fill:rgb(176, 221, 47)">daron</text>
+<text transform="translate(1535,473)" font-size="218" style="fill:rgb(42, 120, 142)">va</text>
+<text transform="translate(1380,182)" font-size="216" style="fill:rgb(173, 220, 48)">plus</text>
+<text transform="translate(12,942)" font-size="203" style="fill:rgb(33, 145, 140)">si</text>
+<text transform="translate(266,309)" font-size="187" style="fill:rgb(60, 79, 138)">comme</text>
+<text transform="translate(180,578) rotate(-90)" font-size="187" style="fill:rgb(32, 146, 140)">bien</text>
+<text transform="translate(1880,558) rotate(-90)" font-size="183" style="fill:rgb(69, 55, 129)">rap</text>
+<text transform="translate(1418,299)" font-size="120" style="fill:rgb(39, 126, 142)">quand</text>
+<text transform="translate(1073,600) rotate(-90)" font-size="120" style="fill:rgb(186, 222, 40)">juste</text>
+<text transform="translate(835,631) rotate(-90)" font-size="120" style="fill:rgb(33, 142, 141)">p re</text>
+<text transform="translate(1433,563)" font-size="115" style="fill:rgb(42, 118, 142)">clash</text>
+<text transform="translate(1295,361) rotate(-90)" font-size="115" style="fill:rgb(63, 188, 115)">faire</text>
+<text transform="translate(5,704)" font-size="112" style="fill:rgb(70, 7, 90)">tait</text>
+<text transform="translate(1974,280) rotate(-90)" font-size="112" style="fill:rgb(176, 221, 47)">dire</text>
+<text transform="translate(4,90)" font-size="104" style="fill:rgb(31, 152, 139)">trop</text>
+<text transform="translate(1963,601) rotate(-90)" font-size="101" style="fill:rgb(64, 69, 136)">donc</text>
+<text transform="translate(1376,253) rotate(-90)" font-size="98" style="fill:rgb(181, 222, 43)">faut</text>
+<text transform="translate(904,584) rotate(-90)" font-size="98" style="fill:rgb(70, 7, 90)">tout</text>
+<text transform="translate(508,748) rotate(-90)" font-size="95" style="fill:rgb(66, 63, 133)">rien</text>
+<text transform="translate(306,374)" font-size="91" style="fill:rgb(70, 8, 92)">autre</text>
+<text transform="translate(1074,426)" font-size="90" style="fill:rgb(117, 208, 84)">v</text>
+<text transform="translate(4,770)" font-size="86" style="fill:rgb(200, 224, 32)">aussi</text>
+<text transform="translate(1234,709)" font-size="68" style="fill:rgb(60, 80, 139)">parce</text>
+<text transform="translate(782,53)" font-size="68" style="fill:rgb(46, 179, 124)">dit</text>
+<text transform="translate(576,364)" font-size="67" style="fill:rgb(35, 169, 131)">bon</text>
+<text transform="translate(1378,391)" font-size="67" style="fill:rgb(192, 223, 37)">quoi</text>
+<text transform="translate(1301,997) rotate(-90)" font-size="67" style="fill:rgb(181, 222, 43)">rappeur</text>
+<text transform="translate(233,370) rotate(-90)" font-size="67" style="fill:rgb(50, 182, 122)">album</text>
+<text transform="translate(630,721)" font-size="67" style="fill:rgb(64, 69, 136)">mec</text>
+<text transform="translate(315,52)" font-size="66" style="fill:rgb(68, 58, 131)">alors</text>
+<text transform="translate(957,717)" font-size="62" style="fill:rgb(184, 222, 41)">jamais</text>
+<text transform="translate(886,249)" font-size="61" style="fill:rgb(30, 156, 137)">ca</text>
+<text transform="translate(1519,612)" font-size="61" style="fill:rgb(70, 11, 94)">parle</text>
+<text transform="translate(28,341)" font-size="61" style="fill:rgb(72, 193, 110)">o</text>
+<text transform="translate(1450,456)" font-size="60" style="fill:rgb(34, 139, 141)">dis</text>
+<text transform="translate(1075,249)" font-size="60" style="fill:rgb(124, 210, 80)">veut</text>
+<text transform="translate(1302,746)" font-size="60" style="fill:rgb(42, 176, 127)">gen</text>
+<text transform="translate(981,984)" font-size="59" style="fill:rgb(41, 122, 142)">vraiment</text>
+<text transform="translate(1035,42)" font-size="59" style="fill:rgb(56, 89, 140)">tous</text>
+<text transform="translate(1204,521)" font-size="58" style="fill:rgb(72, 193, 110)">non</text>
+<text transform="translate(760,704)" font-size="58" style="fill:rgb(31, 154, 138)">gros</text>
+<text transform="translate(352,983)" font-size="58" style="fill:rgb(229, 228, 25)">famille</text>
+<text transform="translate(714,985)" font-size="58" style="fill:rgb(241, 229, 29)">merde</text>
+<text transform="translate(1658,45)" font-size="58" style="fill:rgb(72, 20, 103)">re vald</text>
+<text transform="translate(786,509)" font-size="57" style="fill:rgb(71, 47, 125)">e</text>
+<text transform="translate(96,968)" font-size="47" style="fill:rgb(192, 223, 37)">personne</text>
+<text transform="translate(1783,577)" font-size="47" style="fill:rgb(32, 164, 134)">con</text>
+<text transform="translate(1542,979)" font-size="46" style="fill:rgb(61, 78, 138)">physique</text>
+<text transform="translate(1758,810)" font-size="46" style="fill:rgb(66, 63, 133)">voir</text>
+<text transform="translate(41,806)" font-size="46" style="fill:rgb(56, 88, 140)">blanc</text>
+<text transform="translate(1851,978)" font-size="45" style="fill:rgb(88, 199, 101)">truc</text>
+<text transform="translate(1897,700)" font-size="44" style="fill:rgb(61, 77, 138)">peu</text>
+<text transform="translate(1440,223)" font-size="44" style="fill:rgb(71, 47, 125)">semaine</text>
+<text transform="translate(1397,51)" font-size="44" style="fill:rgb(61, 78, 138)">vrai</text>
+<text transform="translate(1491,808)" font-size="44" style="fill:rgb(48, 106, 142)">moment</text>
+<text transform="translate(1369,975)" font-size="43" style="fill:rgb(47, 180, 124)">encore</text>
+<text transform="translate(1560,333)" font-size="43" style="fill:rgb(40, 174, 128)">toujours</text>
+<text transform="translate(484,496)" font-size="43" style="fill:rgb(84, 197, 104)">vente</text>
+<text transform="translate(1912,637)" font-size="43" style="fill:rgb(34, 140, 141)">foi</text>
+<text transform="translate(588,148)" font-size="43" style="fill:rgb(70, 51, 127)">tre</text>
+<text transform="translate(1766,646)" font-size="43" style="fill:rgb(108, 205, 90)">vu</text>
+<text transform="translate(341,698)" font-size="43" style="fill:rgb(45, 112, 142)">peut</text>
+<text transform="translate(513,49)" font-size="43" style="fill:rgb(31, 150, 139)">iencli</text>
+<text transform="translate(34,597)" font-size="43" style="fill:rgb(33, 145, 140)">couille</text>
+<text transform="translate(1645,809)" font-size="43" style="fill:rgb(31, 159, 136)">moin</text>
+<text transform="translate(312,427)" font-size="42" style="fill:rgb(54, 92, 141)">pcq</text>
+<text transform="translate(14,972)" font-size="42" style="fill:rgb(31, 158, 137)">apr</text>
+<text transform="translate(15,379)" font-size="42" style="fill:rgb(63, 72, 137)">depuis</text>
+<text transform="translate(1939,792)" font-size="42" style="fill:rgb(72, 36, 117)">g</text>
+<text transform="translate(10,128)" font-size="42" style="fill:rgb(157, 217, 59)">chiffre</text>
+<text transform="translate(315,122)" font-size="40" style="fill:rgb(165, 219, 54)">car</text>
+<text transform="translate(1079,362)" font-size="40" style="fill:rgb(34, 141, 141)">couter</text>
+<text transform="translate(1084,304)" font-size="40" style="fill:rgb(251, 231, 35)">vieux</text>
+<text transform="translate(510,700)" font-size="40" style="fill:rgb(31, 149, 139)">tweet</text>
+<text transform="translate(995,620)" font-size="40" style="fill:rgb(223, 227, 24)">contre</text>
+<text transform="translate(1803,464)" font-size="40" style="fill:rgb(52, 97, 141)">peux</text>
+<text transform="translate(1189,567)" font-size="40" style="fill:rgb(253, 231, 37)">leurs</text>
+<text transform="translate(1397,667) rotate(-90)" font-size="40" style="fill:rgb(210, 226, 27)">tout monde</text>
+<text transform="translate(691,333)" font-size="31" style="fill:rgb(253, 231, 37)">peut tre</text>
+<text transform="translate(1237,162)" font-size="30" style="fill:rgb(70, 48, 126)">tr</text>
+<text transform="translate(1756,601)" font-size="30" style="fill:rgb(58, 186, 118)">re</text>
+<text transform="translate(602,967)" font-size="30" style="fill:rgb(36, 134, 142)">propos</text>
+<text transform="translate(1093,896) rotate(-90)" font-size="30" style="fill:rgb(110, 206, 88)">damso</text>
+<text transform="translate(1682,715) rotate(-90)" font-size="30" style="fill:rgb(241, 229, 29)">ge</text>
+<text transform="translate(1209,610)" font-size="30" style="fill:rgb(38, 130, 142)">deux</text>
+<text transform="translate(134,890) rotate(-90)" font-size="30" style="fill:rgb(84, 197, 104)">pr</text>
+<text transform="translate(1564,637)" font-size="30" style="fill:rgb(71, 16, 99)">twitter</text>
+<text transform="translate(39,627)" font-size="30" style="fill:rgb(38, 130, 142)">parler</text>
+<text transform="translate(1398,321) rotate(-90)" font-size="30" style="fill:rgb(160, 218, 57)">jour</text>
+<text transform="translate(743,124)" font-size="30" style="fill:rgb(70, 10, 93)">oui</text>
+<text transform="translate(521,727)" font-size="30" style="fill:rgb(32, 147, 140)">suceur</text>
+<text transform="translate(1123,809)" font-size="29" style="fill:rgb(69, 53, 129)">parent</text>
+<text transform="translate(1041,745)" font-size="29" style="fill:rgb(31, 149, 139)">mieux</text>
+<text transform="translate(327,857)" font-size="29" style="fill:rgb(45, 113, 142)">puis</text>
+<text transform="translate(1656,217)" font-size="29" style="fill:rgb(58, 186, 118)">grand</text>
+<text transform="translate(941,841)" font-size="29" style="fill:rgb(71, 45, 123)">aller</text>
+<text transform="translate(1915,743)" font-size="29" style="fill:rgb(208, 225, 28)">avis</text>
+<text transform="translate(110,989)" font-size="29" style="fill:rgb(63, 71, 136)">trouve</text>
+<text transform="translate(368,735)" font-size="29" style="fill:rgb(31, 158, 137)">fais</text>
+<text transform="translate(231,571) rotate(-90)" font-size="29" style="fill:rgb(68, 2, 86)">feat</text>
+<text transform="translate(470,453)" font-size="29" style="fill:rgb(72, 40, 120)">vois</text>
+<text transform="translate(828,274)" font-size="29" style="fill:rgb(33, 165, 133)">comment</text>
+<text transform="translate(1795,229)" font-size="29" style="fill:rgb(168, 219, 52)">ouais</text>
+<text transform="translate(1344,795)" font-size="29" style="fill:rgb(34, 139, 141)">temp</text>
+<text transform="translate(619,581)" font-size="29" style="fill:rgb(51, 99, 141)">post</text>
+<text transform="translate(908,25)" font-size="29" style="fill:rgb(49, 181, 123)">musique</text>
+<text transform="translate(954,230)" font-size="29" style="fill:rgb(61, 78, 138)">grand p</text>
+<text transform="translate(1111,64)" font-size="28" style="fill:rgb(62, 74, 137)">chose</text>
+<text transform="translate(1202,383)" font-size="28" style="fill:rgb(61, 188, 116)">raison</text>
+<text transform="translate(47,461)" font-size="28" style="fill:rgb(68, 58, 131)">attaque</text>
+<text transform="translate(757,644)" font-size="28" style="fill:rgb(31, 159, 136)">reste</text>
+<text transform="translate(1401,486)" font-size="28" style="fill:rgb(62, 76, 138)">prend</text>
+<text transform="translate(1809,346)" font-size="28" style="fill:rgb(67, 61, 132)">mdr</text>
+<text transform="translate(1644,918)" font-size="28" style="fill:rgb(40, 124, 142)">genre</text>
+<text transform="translate(307,203) rotate(-90)" font-size="28" style="fill:rgb(51, 98, 141)">ceux</text>
+<text transform="translate(742,166)" font-size="28" style="fill:rgb(72, 37, 118)">racisme</text>
+<text transform="translate(543,868)" font-size="28" style="fill:rgb(72, 22, 104)">quel</text>
+<text transform="translate(239,923) rotate(-90)" font-size="28" style="fill:rgb(105, 205, 91)">blague</text>
+<text transform="translate(1758,696)" font-size="28" style="fill:rgb(60, 80, 139)">coute</text>
+<text transform="translate(1592,143)" font-size="28" style="fill:rgb(53, 183, 121)">vie</text>
+<text transform="translate(944,874)" font-size="28" style="fill:rgb(62, 73, 137)">rire</text>
+<text transform="translate(1069,645)" font-size="28" style="fill:rgb(231, 228, 25)">aucun</text>
+<text transform="translate(95,25)" font-size="28" style="fill:rgb(184, 222, 41)">maintenant</text>
+<text transform="translate(1401,586)" font-size="28" style="fill:rgb(47, 108, 142)">aime</text>
+<text transform="translate(1805,739)" font-size="27" style="fill:rgb(129, 211, 77)">fou</text>
+<text transform="translate(619,755)" font-size="27" style="fill:rgb(117, 208, 84)">sorti</text>
+<text transform="translate(729,836)" font-size="27" style="fill:rgb(70, 10, 93)">preuve</text>
+<text transform="translate(1757,165)" font-size="27" style="fill:rgb(60, 80, 139)">dr</text>
+<text transform="translate(309,264)" font-size="27" style="fill:rgb(70, 48, 126)">sais</text>
+<text transform="translate(691,376)" font-size="27" style="fill:rgb(54, 93, 141)">sans</text>
+<text transform="translate(1864,577)" font-size="27" style="fill:rgb(127, 211, 78)">h</text>
+<text transform="translate(296,397)" font-size="27" style="fill:rgb(72, 36, 117)">meilleur</text>
+<text transform="translate(396,644)" font-size="27" style="fill:rgb(54, 93, 141)">fan</text>
+<text transform="translate(801,731)" font-size="27" style="fill:rgb(31, 161, 136)">quelle</text>
+<text transform="translate(1892,296)" font-size="27" style="fill:rgb(70, 48, 126)">combat</text>
+<text transform="translate(327,820)" font-size="27" style="fill:rgb(68, 2, 86)">mdrr</text>
+<text transform="translate(1880,355)" font-size="27" style="fill:rgb(117, 208, 84)">accord</text>
+<text transform="translate(985,539)" font-size="27" style="fill:rgb(119, 209, 83)">communaut</text>
+<text transform="translate(1792,600)" font-size="27" style="fill:rgb(119, 209, 83)">mettre</text>
+<text transform="translate(261,377) rotate(-90)" font-size="27" style="fill:rgb(69, 5, 89)">responsable</text>
+<text transform="translate(636,943)" font-size="27" style="fill:rgb(239, 229, 28)">avoir</text>
+<text transform="translate(1595,905) rotate(-90)" font-size="27" style="fill:rgb(221, 227, 24)">sait</text>
+<text transform="translate(1204,468)" font-size="27" style="fill:rgb(68, 57, 131)">toute</text>
+<text transform="translate(205,480) rotate(-90)" font-size="27" style="fill:rgb(35, 169, 131)">premier</text>
+<text transform="translate(522,424) rotate(-90)" font-size="27" style="fill:rgb(51, 99, 141)">insta</text>
+<text transform="translate(1465,710)" font-size="27" style="fill:rgb(59, 82, 139)">jsuis</text>
+<text transform="translate(444,518)" font-size="27" style="fill:rgb(71, 44, 122)">fan vald</text>
+<text transform="translate(582,169)" font-size="27" style="fill:rgb(34, 139, 141)">carri re</text>
+<text transform="translate(1834,833)" font-size="26" style="fill:rgb(31, 152, 139)">x</text>
+<text transform="translate(1652,895)" font-size="26" style="fill:rgb(72, 38, 119)">chaud</text>
+<text transform="translate(1367,339)" font-size="26" style="fill:rgb(90, 200, 100)">story</text>
+<text transform="translate(1538,148) rotate(-90)" font-size="26" style="fill:rgb(72, 22, 104)">partie</text>
+<text transform="translate(798,900) rotate(-90)" font-size="26" style="fill:rgb(253, 231, 37)">duc</text>
+<text transform="translate(1721,113) rotate(-90)" font-size="26" style="fill:rgb(48, 106, 142)">vais</text>
+<text transform="translate(1808,500)" font-size="26" style="fill:rgb(147, 215, 65)">gueule</text>
+<text transform="translate(56,236) rotate(-90)" font-size="26" style="fill:rgb(45, 113, 142)">pondre</text>
+<text transform="translate(307,490)" font-size="26" style="fill:rgb(45, 178, 125)">ni</text>
+<text transform="translate(1340,767)" font-size="26" style="fill:rgb(61, 77, 138)">sortir</text>
+<text transform="translate(1160,870)" font-size="26" style="fill:rgb(108, 205, 90)">veux</text>
+<text transform="translate(1470,745)" font-size="26" style="fill:rgb(61, 78, 138)">coup</text>
+<text transform="translate(267,988)" font-size="26" style="fill:rgb(37, 171, 130)">autant</text>
+<text transform="translate(928,171) rotate(-90)" font-size="26" style="fill:rgb(33, 144, 141)">passer</text>
+<text transform="translate(43,544) rotate(-90)" font-size="26" style="fill:rgb(31, 162, 135)">image</text>
+<text transform="translate(1002,129)" font-size="26" style="fill:rgb(34, 141, 141)">entre</text>
+<text transform="translate(1136,161)" font-size="26" style="fill:rgb(72, 36, 117)">quelqu</text>
+<text transform="translate(44,518)" font-size="26" style="fill:rgb(86, 198, 103)">fr</text>
+<text transform="translate(573,384)" font-size="26" style="fill:rgb(31, 151, 139)">cette</text>
+<text transform="translate(859,595)" font-size="26" style="fill:rgb(48, 106, 142)">hein</text>
+<text transform="translate(1656,742)" font-size="26" style="fill:rgb(58, 83, 139)">font</text>
+<text transform="translate(114,188)" font-size="26" style="fill:rgb(52, 97, 141)">pond</text>
+<text transform="translate(1985,565) rotate(-90)" font-size="26" style="fill:rgb(37, 132, 142)">rapport</text>
+<text transform="translate(525,831)" font-size="26" style="fill:rgb(39, 126, 142)">sujet</text>
+<text transform="translate(1925,107)" font-size="26" style="fill:rgb(38, 173, 129)">noir</text>
+<text transform="translate(760,523)" font-size="24" style="fill:rgb(71, 42, 122)">excuse</text>
+<text transform="translate(1162,885)" font-size="24" style="fill:rgb(46, 109, 142)">meme</text>
+<text transform="translate(120,909)" font-size="24" style="fill:rgb(57, 85, 140)">pris</text>
+<text transform="translate(1054,764)" font-size="24" style="fill:rgb(78, 195, 107)">pote</text>
+<text transform="translate(309,457)" font-size="24" style="fill:rgb(52, 97, 141)">surtout</text>
+<text transform="translate(1573,493)" font-size="24" style="fill:rgb(72, 33, 115)">tellement</text>
+<text transform="translate(960,210) rotate(-90)" font-size="24" style="fill:rgb(178, 221, 45)">question</text>
+<text transform="translate(1018,66)" font-size="24" style="fill:rgb(236, 229, 27)">allait</text>
+<text transform="translate(1068,667)" font-size="24" style="fill:rgb(72, 20, 103)">sen</text>
+<text transform="translate(892,978)" font-size="24" style="fill:rgb(31, 153, 138)">kaaris</text>
+<text transform="translate(1780,978)" font-size="24" style="fill:rgb(244, 230, 30)">face</text>
+<text transform="translate(1377,19)" font-size="24" style="fill:rgb(61, 77, 138)">stream</text>
+<text transform="translate(22,253)" font-size="24" style="fill:rgb(112, 207, 87)">seul</text>
+<text transform="translate(905,44)" font-size="24" style="fill:rgb(63, 71, 136)">sinon</text>
+<text transform="translate(42,824)" font-size="24" style="fill:rgb(37, 133, 142)">afficher</text>
+<text transform="translate(1088,444)" font-size="24" style="fill:rgb(60, 80, 139)">fils</text>
+<text transform="translate(1103,324)" font-size="24" style="fill:rgb(41, 123, 142)">bouffon</text>
+<text transform="translate(209,793)" font-size="24" style="fill:rgb(72, 40, 120)">ponse</text>
+<text transform="translate(888,883) rotate(-90)" font-size="24" style="fill:rgb(157, 217, 59)">classique</text>
+<text transform="translate(255,55)" font-size="24" style="fill:rgb(68, 2, 86)">pire</text>
+<text transform="translate(101,246)" font-size="24" style="fill:rgb(43, 116, 142)">ultra</text>
+<text transform="translate(1381,993)" font-size="24" style="fill:rgb(218, 227, 25)">histoire</text>
+<text transform="translate(674,914) rotate(-90)" font-size="24" style="fill:rgb(108, 205, 90)">beaucoup</text>
 </svg>
