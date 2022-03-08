@@ -1,6 +1,6 @@
 # See here for image contents: https://hub.docker.com/r/jupyter/datascience-notebook/
 
-FROM jupyter/datascience-notebook
+FROM jupyter/datascience-notebook:python-3.8.8
 
 # We want to run common-debian.sh from here:
 # https://github.com/microsoft/vscode-dev-containers/tree/main/script-library#development-container-scripts
@@ -9,6 +9,7 @@ FROM jupyter/datascience-notebook
 COPY library-scripts/common-debian.sh /tmp/library-scripts/
 USER root
 RUN apt-get update \
+ && apt-get install -y libblas3 libomp5 liblapack3 \
  && groupadd jovyan \
  && usermod -a -G jovyan jovyan \
  && bash /tmp/library-scripts/common-debian.sh \
